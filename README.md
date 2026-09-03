@@ -20,7 +20,7 @@ Exploratory
 
 ## Action Performed
 
-1. Open the texting link rec3all.accor.com/booking/en/emblems/hotels/paris-france? compositions=1&dateln=2026-08-24&nights=1
+1. Open the texting link rec3-all.accor.com/booking/en/emblems/hotels/paris-france? compositions=1&dateln=2026-08-24&nights=1
 
 2. Tap on search icon
 
