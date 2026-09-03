@@ -49,4 +49,6 @@ After opening the Filter page and setting the Minimum Price to €20 and Maximum
 
 ## Screenshot and videos 
 
+<img width="1080" height="2400" alt="Image" src="https://github.com/user-attachments/assets/15142540-4c7e-4457-a75e-7c3b4c0980b1" />
+
 <img width="1080" height="2400" alt="Image" src="https://github.com/user-attachments/assets/e7b99ee4-d2a8-413c-b134-c7af5fdb25ea" />
