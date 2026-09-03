@@ -45,3 +45,8 @@ The system should retain the selected €20-€80 price range and recalculate or
 ## Actual Result
 
 After opening the Filter page and setting the Minimum Price to €20 and Maximum Price to €80, the action button correctly displays "SHOW 109 RESULTS." After closing the Filter page using the X button and reopening the Filter page, the displayed result count changes to 5 results even though the previously selected price range remains applied. This presents an inconsistent result count to the user for the same filter criteria.
+
+
+## Screenshot and videos 
+
+<img width="1080" height="2400" alt="Image" src="https://github.com/user-attachments/assets/e7b99ee4-d2a8-413c-b134-c7af5fdb25ea" />
