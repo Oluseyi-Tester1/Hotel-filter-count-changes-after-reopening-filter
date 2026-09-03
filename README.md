@@ -1,14 +1,19 @@
-# Hotel-filter-count-changes-after-reopening-filter
+## NG-Redmi Note 11s/13--Search-Hotel filter count changes after reopening filter
 
-# Type- Functional
-
-
-# Frequency-Every Time
-
-# Severity-High
+# Type
+Functional
 
 
+# Frequency
+Every Time
 
-# Environment-Xiaomi Redmi Note 11S-Android 13, GloMobile, Chrome
+# Severity
+High
 
-# Source-Exploratory
+
+
+# Environment
+Xiaomi Redmi Note 11S-Android 13, GloMobile, Chrome
+
+# Source
+Exploratory
